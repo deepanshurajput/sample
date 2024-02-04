@@ -1,12 +1,6 @@
 # sample
 
 hello dp this is a new file
-
-
-second edit
-
-
-
-
-
-second
+first line
+<br>
+next line 
